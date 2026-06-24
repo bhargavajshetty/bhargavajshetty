@@ -44,10 +44,4 @@ Final-year CSE student at NMAMIT | AI • Machine Learning • Data Science | Bu
 
 ---
 
-## 📊 GitHub Stats
-
-![Bhargava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavajshetty&show_icons=true&theme=default&hide_border=true)
-
----
-
 *Open to AI/ML internships and entry-level roles — feel free to reach out!*
