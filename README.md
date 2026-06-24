@@ -26,9 +26,7 @@ Final-year CSE student at NMAMIT | AI • Machine Learning • Data Science | Bu
 | [🍛 Indian Cuisine Classifier](https://github.com/bhargavajshetty/Indian_Cuisine_Classifier) | DenseNet CNN that classifies Indian food dishes from images — 93.88% accuracy | Python, TensorFlow, DenseNet |
 | [📰 Fake News Detection](https://github.com/bhargavajshetty/Detecting-and-Combating-Fake-News-with-Data-and-AI) | RAG pipeline + ML classifier to detect fake news — collaborative team project | Python, RAG, Streamlit, Gemini |
 | [😊 Employee Mood Analyzer](https://github.com/bhargavajshetty/employee_mood_analyzer) | FastAPI REST API using VADER sentiment analysis for HR feedback processing | Python, FastAPI, SQLite, NLP |
-| [❓ Online Quiz System](https://github.com/bhargavajshetty/online_quiz_system) | Full-stack quiz platform with admin panel, scoring, and leaderboard | Python, Flask, SQLite |
-| [🦕 Dino Core](https://github.com/bhargavajshetty/dino-core) | Browser-based dino game built from scratch | JavaScript, HTML, CSS |
-| [🏓 Pong Game](https://github.com/bhargavajshetty/pong_game) | Classic pong game recreated in Python | Python, Pygame |
+| [❓ Online Quiz System](https://github.com/bhargavajshetty/online_quiz_system) | Full-stack web quiz platform with user auth, admin dashboard, and auto-scoring | PHP, MySQL, HTML, CSS |
 
 ---
 
